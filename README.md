@@ -20,8 +20,6 @@ A visually appealing dark theme designed for clarity.
 #11111B,#1E1E2E,#47BAAE,#BD8DF3
 ```
 
-> **Note:** When you have [dark mode](https://slack.com/help/articles/360019434914-Use-dark-mode-in-Slack) turned on, the existing options for sidebar themes will look different (and darker) than they do in light mode. Custom themes will look the same in light and dark mode.
-
 ## License
 
 [MIT License](./LICENSE)
